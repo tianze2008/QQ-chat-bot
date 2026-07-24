@@ -14,3 +14,7 @@ QQ聊天机器人(可自由修改人设)
   6.3编辑机器人人设
 7.使用cd命令在终端中进入在qqbot.py所在路径，运行py文件(py qqbot.py)
 大功告成！
+
+温馨提示：
+1.全程请勿关闭launcher.bat
+2.asyncio websockets zhipuai等依赖库是必须的
